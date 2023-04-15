@@ -1,4 +1,4 @@
-## Guess Number Game
+## Higher Lower Game
 
 Program for **Higher Lower Game**     
 Higher Lower Game is easy to play, decide who has more follower.     
@@ -6,6 +6,11 @@ Try "**Higher Lower Game**" [here](http://www.higherlowergame.com/)
 
 
 ###### It's a part of the **#100DaysOfCode** challenge by Angela Yu. ######
+
+
+#### Prerequisites
+You will need the following software to run the Higher Lower Game:
+ - [Python 3](https://www.python.org/downloads/)
 
 
 #### Installation
